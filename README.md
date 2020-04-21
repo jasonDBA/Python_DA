@@ -3,9 +3,10 @@ This git repository is a Python Data Analytics project from an online course pro
 
 
 [Step of execution]
-1. First go to "Final Report.pdf"
+1. Go to "Final Report.pdf"
 2. Read and understand the report
 3. Download the file "Segmenting and Clustering Neighborhoods in Toronto_FINAL.ipynb"
-4. After installing Anaconda, install Jupyter Notebook from there
+4. Install Anaconda from the below link
 * Download URL: https://www.anaconda.com/distribution/
-5. Run the .ipynb you just downloaded from Jupyter Notebook
+5. Download Jupyter Notebook in Anaconda
+6. Run the .ipynb file you just downloaded from Jupyter Notebook
